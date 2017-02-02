@@ -1,0 +1,4 @@
+cf:
+  apiHost: api.local.pcfdev.io
+  username: user
+  password: pass
